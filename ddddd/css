@@ -2,3 +2,28 @@
 background-image:  url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 forn-size: 100px;
 }
+.caption{
+  font-family: helvetice;
+  font-size:  100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+h1{
+  font-family: helvetice;
+  font-size:  32px;
+  font-weight: bold;
+  color:white;
+  background-color:mediumspringgreen;
+}
+.strong{
+  font-family: helvetica;
+  font-weight: bold;
+  color:blue;
+}
+h3{
+  background-color: lightcoral;
+}
+h5{
+  background-color: skyblue;
+}
