@@ -16,7 +16,7 @@ h1{
   color:white;
   background-color:mediumspringgreen;
 }
-.strong{
+strong{
   font-family: helvetica;
   font-weight: bold;
   color:blue;
