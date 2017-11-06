@@ -3,7 +3,7 @@ background-image:  url("https://s3.amazonaws.com/codecademy-content/courses/free
 forn-size: 100px;
 }
 .caption{
-  font-family: helvetice;
+  font-family: Helvetice;
   font-size:  100px;
   font-weight: bold;
   color: khaki;
@@ -26,4 +26,5 @@ h3{
 }
 h5{
   background-color: skyblue;
+  
 }
